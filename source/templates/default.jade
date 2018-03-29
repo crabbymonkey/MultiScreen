@@ -1,0 +1,18 @@
+doctype html
+html
+  head
+    link(rel='stylesheet', href='/css/index.css')
+    title World Wide Web
+  body
+
+    ul.nav
+      li: a(href='/') Home
+      li: a(href='/config') Configure
+      li: a(href='#fs') Full Screen
+      li: a(href='/contact') Contact
+    
+    .main-content
+      block content
+
+    .footer
+      p Copyright © 2020 MultiScreen. MultiScreen ® is a Registered Trademark of Futures (un)Ltd. in the Mars Community and other solar systems.
