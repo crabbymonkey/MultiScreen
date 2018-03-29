@@ -1,0 +1,19 @@
+{
+  "name": "multiscreen",
+  "version": "0.0.1",
+  "description": "This is a website that can allow the user to view multiple websites as if they had there screen divided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabbymonkey/MultiScreen.git"
+  },
+  "author": "Ryan Dufrene",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crabbymonkey/MultiScreen/issues"
+  },
+  "homepage": "https://github.com/crabbymonkey/MultiScreen#readme"
+}
