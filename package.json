@@ -22,10 +22,8 @@
   },
   "homepage": "https://github.com/crabbymonkey/MultiScreen#readme",
   "dependencies": {
+    "ejs": "~2.5.5",
     "express": "^4.16.3",
-    "jade": "^1.11.0",
-    "morgan": "^1.9.0",
-    "nodemon": "^1.9.2",
-    "stylus": "^0.54.5"
+    "jade": "^1.11.0"
   }
 }
